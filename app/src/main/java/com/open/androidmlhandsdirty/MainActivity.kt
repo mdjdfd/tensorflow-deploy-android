@@ -20,7 +20,6 @@ class MainActivity : AppCompatActivity() {
         activityMainBinding.activity = this
     }
 
-
     fun onPredictClick(view: View) {
         var byteBuffer: ByteBuffer = ByteBuffer.allocate(4 * 4)
         byteBuffer.putFloat(textinputedittext_sepal_length.text.toString().toFloat())
