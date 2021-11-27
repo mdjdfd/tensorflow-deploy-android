@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidMLHandsDirty</string>
+    <string name="sepal_length">Sepal length</string>
+    <string name="sepal_width">Sepal width</string>
+    <string name="petal_length">Petal length</string>
+    <string name="petal_width">Petal width</string>
+    <string name="predict">Predict</string>
+</resources>
